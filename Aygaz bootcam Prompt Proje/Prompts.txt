@@ -1,0 +1,106 @@
+Prompt 1:
+
+I would like you to assist me with my project in the capacity of a front-end web designer.
+Please utilize the following tools while you code my new website, "Best Strategy PC games on Steam":
+HTML and CSS codes for the Bootstrap framework should be provided as different outputs, and I would like you to use a CDN for HTML, CSS.
+You should also include a menu with internal links to headings within the page content.
+Do you understand all of this?
+If all prerequisites are understood, kindly indicate with a yes or no.
+
+Prompt 2:
+
+The web site will be a portfolio gallery web site that I will be mentioned about PC games. 
+In this web site it must be these tags. This are header, main, nav, section, article, aside, footer.
+The first part is header. There is include logo and title. Logo is size 100x100 and arrange it left-aligned. The title is “Top 10 Best Strategy PC Games on Steam”, and size is 50 and text format is Calibri and color is White.
+Also, header background color is Black, but just header color is black. The other part is white. 
+Provide me with the HTLM and CSS code as separate outputs. 
+Can you help me build this website?
+
+Prompt 3:
+
+And add this text to the Introduction: Welcome to Top Tier List of Best Strategy Games on PC. Size is 35 and format is Calibri.  
+Then please you write me an Introduction for this topic. 
+I want the picture to be 1080×1350 with 10 girds. Also center the pictures. And I don't want the pictures to be cropped in here.
+Add writing to the top of the picture. Also "TITLE" to all the texts above the pictures. Please add this in the code.
+
+Prompt 4:
+
+Please add these,
+1.	Europa Universalis 4
+2.	Civilization Series
+3.	Stellaris
+4.	Endless Legend
+5.	Company of Heroes
+6.	Command & Conquer
+7.	StarCraft
+8.	Warcraft
+9.	Age of Empires
+10.	Hearts of Iron 4
+in the Titles seperatle. 
+Also include a menu with internal links to headings within the page content.I want to add on menu link colors are the same color to header.
+Please add footer in here and change the background color is black and text color is white. Do you make it?
+
+Prompt 5:
+
+Please add contact in menu and goes to footer. And this footer includes a social media button. And add a contact to header.  
+I want to write something about every photo. So please open to some place to writing.
+Please add an aside. 
+I want you to turn the texts above the pictures to be links, when you click on the game names the user should see the game on the new tab. I will send the steam links. Place them respectively, 10 to 1.
+https://store.steampowered.com/app/236850/Europa_Universalis_IV/
+https://store.steampowered.com/franchise/civilization
+https://store.steampowered.com/app/281990/Stellaris/
+https://store.steampowered.com/app/289130/ENDLESS_Legend/
+https://store.steampowered.com/app/228200/Company_of_Heroes/
+https://store.steampowered.com/franchise/CandC
+https://starcraft2.blizzard.com/en-us/
+https://starcraft2.blizzard.com/en-us/
+https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/
+https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
+
+------------------------------------------------------------------------------------------------------------------------------------
+Resim için bir adet prompt kullandım sornasında hep aynı promptu tekrarladım. 
+
+Prompt :
+Please give me a picture of the new poster for Europa Universalis 4. Write the game name on the picture. The game’s name is Europa Universalis 4. Add on release date at13 August 2013. Add Developer in the picture and it is Paradox Development Studio.
+Please give me a picture of the new game poster for Civilization Series. Write the game name on the picture. The game’s name is Civilization Series.
+Please give me a picture of the new game poster for Stellaris. Write the game name on the picture. The game’s name is Stellaris.
+Please give me a picture of the new game poster for Endless Legend. Write the game name on the picture. The game’s name is Endless Legend.
+Please give me a picture of the new game poster for Company of Heroes. Write the game name on the picture. The game’s name is Company of Heroes.
+Please give me a picture of the new game poster for Command & Conquer. Write the game name on the picture. The game’s name is Command & Conquer.
+Please give me a picture of the new game poster for StarCraft. Write the game name on the picture. The game’s name is StarCraft.
+Please give me a picture of the new game poster for Warcraft. Write the game name on the picture. The game’s name is Warcraft.
+Please give me a picture of the new game poster for Age of Empires. Write the game name on the picture. The game’s name is Age of Empires.
+Please give me a picture of the new game poster for Hearts of Iron 4. Write the game name on the picture. The game’s name is Hearts of Iron 4.
+
+
+Give a logo for gaming website. This website is mostly information for game news and games reviews. 
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Bundan sonra ise yeni bir chatai ile konuşmaya başladım. Buna da gerek duyulan metinleri yazmasını istedim. Prompt'lar sırasıyla şöyle;
+
+Prompt 1:
+
+I have made a website, and the topic is Top 10 Best Strategy PC Games. Please write a short text to what is Strategy games, why play these games, and why is special for these games. 
+Do you understand all of this?
+If all prerequisites are understood, kindly indicate with a yes or no.
+
+Prompt 2:
+
+First of all, thank you for your article. Now I will give you 10 games. Do you know these games?
+1.	Europa Universalis 4
+2.	Civilization Series
+3.	Stellaris
+4.	Endless Legend
+5.	Company of Heroes
+6.	Command & Conquer
+7.	StarCraft
+8.	Warcraft
+9.	Age of Empires
+10.	Hearts of Iron 4
+
+If all prerequisites are understood, kindly indicate with a yes or no.
+
+Prompt 3:
+
+Now these are written on the website in the order above. I want you to write a short text for all of these, not exceeding 1 paragraph. In this text, I want you to give brief information such as what is the purpose of the game and why is the game good?
+
